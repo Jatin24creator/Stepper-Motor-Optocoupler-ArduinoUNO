@@ -17,5 +17,6 @@ Components Used:
 
 Pin Diagram Layout:![image](https://github.com/Jatin24creator/Stepper-Motor-Optocoupler-ArduinoUNO/assets/85844100/3c5eedb5-8196-4920-9f6f-755f816adf72)
 
+PRECAUTION! For using the stepper motor for longer duration make sure to use a 5V DC fan on the base of stepper motor and motor driver along with the heat sink. As due the heating issue on long duration can cause major burn and shortcircuit in jumper wires.
 
 
