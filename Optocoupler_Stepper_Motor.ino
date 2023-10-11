@@ -1,4 +1,4 @@
-// Find me on linkedin (linekdin.com/in/jatin-rana-india/)
+// Find me on linkedin (linkedin.com/in/jatin-rana-india/)
 // Github (@Jatin24creator)
 /* 
 This code was written to fulfill certain needs of another project. A short description of the project is 
