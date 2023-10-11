@@ -4,7 +4,9 @@ Controlling Rotations of Stepper Motor and Position Initialization using Optocou
 Project Description: 
 This is a code to partially fulfill the requirements of another project where the stepper motor needed to be initialised to the same position on start and then
 needed to be stopped at 5 intervals for a duration of 4 seconds each with the flexibility to control the clockwise and counterclockwise rotations.
+
 Library Required: (https://www.arduino.cc/reference/en/libraries/stepper/)
+
 Components Used:                                                                    
 1. Arduino UNO R3                                                                  
 2. NEMA 23 Stepper Motor                                                                   
